@@ -1,8 +1,25 @@
 html {
-  background: rgb(227, 152, 152);
+  background: #f5f5f7;
   font-size: large;
 }
 li {
   margin-bottom: 20px;
   margin-left: 30px;
+}
+
+.lovelist {
+  color: #443731;
+  font-family: "Delius", cursive;
+  font-weight: 100;
+}
+
+.home {
+  text-transform: uppercase;
+  font-family: "Delius", cursive;
+  font-weight: 900;
+  color: #443731;
+}
+
+h1 {
+  font-family: "Delius", cursive;
 }
